@@ -4,15 +4,15 @@ Indigenous GPU-Accelerated Optimization Solver
 ## Running the program
 Run the files, algorithm_A.py and algorithm_B.py directly
 
-## Algorithm A
-Vertex-neighbor walking using exact Fraction arithmetic, nullspace directions, and ray-tracing.
+## Algorithm A (SLOWER)
+Exact vertex enumeration using Fraction arithmetic & Gaussian elimination.
 Solution of 1st problem
 ```
 Optimal point: (Fraction(24, 5), Fraction(0, 1), Fraction(12, 5), Fraction(4, 1))
 Optimal value: 288/5
 ```
 
-## Algorithm B
+## Algorithm B (FASTER)
 Vertex-neighbor walking using exact Fraction arithmetic, nullspace directions, and ray-tracing.
 Solution of 2nd problem
 ```
