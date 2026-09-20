@@ -1,0 +1,2 @@
+# smart_india_hackathon_2026_119
+Indigenous GPU-Accelerated Optimization Solver
