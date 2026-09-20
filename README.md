@@ -6,6 +6,7 @@ Run the files, algorithm_A.py and algorithm_B.py directly
 
 ## Algorithm A (SLOWER)
 Exact vertex enumeration using Fraction arithmetic & Gaussian elimination.
+<br>
 Solution of 1st problem
 ```
 Optimal point: (Fraction(24, 5), Fraction(0, 1), Fraction(12, 5), Fraction(4, 1))
@@ -14,6 +15,7 @@ Optimal value: 288/5
 
 ## Algorithm B (FASTER)
 Vertex-neighbor walking using exact Fraction arithmetic, nullspace directions, and ray-tracing.
+<br>
 Solution of 2nd problem
 ```
 Point: (Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1)) Value: 0
